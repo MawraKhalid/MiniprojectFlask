@@ -1,0 +1,34 @@
+
+
+                                :::About:::
+								
+Website grievances/feedback managemant system
+We have created this website for anyone who fails to express their concerns and problems or seek appropriate help from the organization,This website will help them.
+This website allows a person to talk about their problem and express their point of view correctly.
+Our goal is to provide a platform for a person to talk about his or her own satisfaction.
+He/Her can share his worries with his organization from anywhere.
+We are happy that we have the ability to work for our person.
+We hope you find this website helpful
+
+
+                                :::use:::
+Flask Python 
+Html , Css
+bootstrap
+MySql 8.0 Command Lines Client
+workspace : Visual Studia Code 
+
+
+                              :::Description:::
+
+Student satisfaction is a major concern for any educational institution.
+However, many times that person fails to express their concerns and problems or fails to reach out to the organization for appropriate help.
+Nor is there a system that resolves disputes or problems facing that person.
+This website basically helps a person to communicate with the institute and discuss their problems.
+It is still helpful for any institute to make sure that the problems of the person and the problems of the person are solved. 
+First, log on to this website and register yourself then you have to fill in your complaint/opinion form.
+Provide information about yourself and if there is a problem or issue, write and submit it and it will be sent to your institute.
+The person can lodge their complaints through this system which will be redressed by the institute.
+Person grievance/feedback cell will also look into matters of harassment thus creating a protective environment for the person.
+A person may approach the cell to voice their grievances/feedback regarding academic matters, health services, library, and other services.
+Anyone with a genuine grievance may approach the Co-ordinator or member of the person’s Grievance cell, grievances cell is formed in order to keep the healthy working atmosphere amongst staff and person, Admin can view the resolving status of all grievance.
