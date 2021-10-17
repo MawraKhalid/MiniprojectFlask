@@ -34,7 +34,7 @@ def sig():
         if email.lower():
            session['email'] = [0][0]
         sign = db.execute("SELECT * FROM sign").fetchall()
-        return redirect("/home", sign=sign, )
+        return redirect("/home" )
       else:
         sign = db.execute("SELECT * FROM sign").fetchall()  
         return render_template("signin.html", sign=sign)
